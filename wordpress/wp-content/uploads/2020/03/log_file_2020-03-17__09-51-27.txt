@@ -1,0 +1,237 @@
+
+---Downloaded files---
+The import files for: Di Restaurant Demo Site were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wordpress
+Data file = C:/xampp/htdocs/wordpress/wp-content/plugins/di-themes-demo-site-importer/inc/di-themes/di-restaurant/files/demo-content.xml
+Widget file = C:/xampp/htdocs/wordpress/wp-content/plugins/di-themes-demo-site-importer/inc/di-themes/di-restaurant/files/widgets.wie
+Customizer file = C:/xampp/htdocs/wordpress/wp-content/plugins/di-themes-demo-site-importer/inc/di-themes/di-restaurant/files/customizer.dat
+
+------
+Completed AJAX call number: 1
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+Completed AJAX call number: 2
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+Completed AJAX call number: 3
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+Completed AJAX call number: 4
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+Completed AJAX call number: 5
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+Completed AJAX call number: 6
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+Completed AJAX call number: 7
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+Completed AJAX call number: 8
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+Completed AJAX call number: 9
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+Completed AJAX call number: 10
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+Completed AJAX call number: 11
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+Completed AJAX call number: 12
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+Completed AJAX call number: 13
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+Completed AJAX call number: 14
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+Completed AJAX call number: 15
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+Completed AJAX call number: 16
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+Completed AJAX call number: 17
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+Completed AJAX call number: 18
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+Completed AJAX call number: 19
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+Completed AJAX call number: 20
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+Completed AJAX call number: 21
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+Completed AJAX call number: 22
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+Completed AJAX call number: 23
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+Completed AJAX call number: 24
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+Completed AJAX call number: 25
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+Completed AJAX call number: 26
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+Completed AJAX call number: 27
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+Completed AJAX call number: 28
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+Completed AJAX call number: 29
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+Completed AJAX call number: 30
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+Completed AJAX call number: 31
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+Completed AJAX call number: 32
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+Completed AJAX call number: 33
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+Completed AJAX call number: 34
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+Completed AJAX call number: 35
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+Completed AJAX call number: 36
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+Completed AJAX call number: 37
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+------
+Completed AJAX call number: 38
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+
+---Importing content---
+[WARNING] Failed to import action-group woocommerce-db-updates
+
+Max execution time after content import = 300
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Image - Truly Tasty - Imported
+Categories - No Title - Imported
+Gallery - Food Gallery - Imported
+Audio - Listen Testimonial - Imported
+Archives - No Title - Imported
+Video - Our Video - Imported
+Tag Cloud - Tags - Imported
+Text - Custom Text - Imported
+Image - Banner - Imported
+
+WooCommerce Sidebar : 
+
+Product Search - Search Product - Imported
+Cart - Cart - Imported
+Filter Products by Price - Filter by price - Imported
+Products - Latest &amp; Tasty - Imported
+Product Categories - Product categories - Imported
+Product Tag Cloud - Product tags - Imported
+Image - Limited Offer - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---dtdsi/after_import---
+
